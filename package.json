@@ -1,0 +1,16 @@
+{
+    "name": "com.ronpad.signals",
+    "version": "1.0.0",
+    "displayName": "Com.RonPad.Signals",
+    "author": {
+        "name": "rontian",
+        "email": "i@ronpad.com",
+        "url": "https://www.ronpad.com"
+    },
+    "keywords": [],
+    "description": "Think Outside the Event",
+    "unity": "2019.4",
+    "license": "MIT",
+    "type": "library",
+    "dependencies": {}
+}
